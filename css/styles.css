@@ -1,0 +1,142 @@
+body {
+  background-color: #163d4b
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.gift-titullapa {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  margin: 0 auto 0 auto;
+  color: #d89216
+}
+
+.hapiness {
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  text-align: center;
+  padding-top: 1.5rem;
+  color: #fc3c3c
+}
+
+.gift-otralapa {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  text-align: center;
+  padding-top: 1.5rem;
+  color: #d89216
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  text-align: center;
+  margin: 30px 200px 50px 200px;
+  color: #fff;
+}
+
+.how-it-works {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  text-align: center;
+  padding-top: 1.5rem;
+  color: #d89216
+}
+
+.container {
+  width: auto;
+  height: auto;
+  margin: auto 3% auto 12%;
+  position: relative;
+}
+
+.first {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  margin: 0 0 0 80px;
+  margin-bottom: 5rem;
+  text-align: center;
+  color: #fff;
+  background-color: #163d4b;
+  width: 400px;
+  height: 100px;
+}
+
+.icon {
+  color: #fc3c3c;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.supporters {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  text-align: center;
+  padding-top: 1.5rem;
+  color: #d89216
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+/*Gift Buttons*/
+.gift-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* quotes carousel */
+.carousel-item {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  font-size: 1rem;
+  color: #fc3c3c;
+  padding: 5%;
+}
+
+/*supporters logo*/
+.jel-logo {
+  width: 100px;
+  height: 100px;
+  margin: 5% 5% 5% 30%;
+}
+
+.lat-logo {
+  width: 300px;
+  height: 100px;
+  margin: 5% 5% 5% 0;
+}
+
+.etr-logo {
+  width: 100px;
+  height: 80px;
+}
+
+#footer{
+  text-align: center;
+  color:#fff;
+}
+
+.soc-icon{
+  margin: 20px 10px;
+}
+
+@media (max-width:1000px){
+  #title{
+    text-align: center;
+  }
+  .gift-titullapa{
+    position: static;
+  }
+}
+
+a{
+  text-decoration: none;
+}
